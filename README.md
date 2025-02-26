@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi! My name is Viktoriia!
 
-<!--
-**Vi-Kovalska/Vi-Kovalska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+   <a href="https://www.linkedin.com/in/viktoriia-sytnyk-b79398326/" target="_blank">
+      <img  src="./images/computer-engineer.png" width="80" height="80" alt="linkedin" />
+    </a>
+   <p> I am a 25-year-old developer with one year of experience.
+Focused on creating user-friendly and responsive applications, writing clean, efficient and easy-to-maintain code. I always strive to learn current trends and best practices.</p>
+</div>
 
-Here are some ideas to get you started:
+### 🤝 Soft skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- responsibility,
+- adaptability,
+- determination,
+- communication.
+
+---
+
+### 💻 My stack:
+
+<div style="display:flex">
+<img  src='./images/css-logo.png' width="80" height="80" alt="CSS logo" />
+<img  src='./images/html-logo.png' width="80" height="80" alt="HTML logo" />
+<img  src='./images/java-script-logo.png' width="80" height="80" alt="Java Script logo" />
+<img  src='./images/react-logo.png' width="80" height="80" alt="React logo" />
+<img  src='./images/redux-logo.png' width="80" height="80" alt="Redux logo" />
+</div>
