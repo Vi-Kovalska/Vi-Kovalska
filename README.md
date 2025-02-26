@@ -1,12 +1,7 @@
 # Hi! My name is Viktoriia!
 
-<div>
-   <a href="https://www.linkedin.com/in/viktoriia-sytnyk-b79398326/" target="_blank">
-      <img  src="./images/computer-engineer.png" width="80" height="80" alt="linkedin" />
-    </a>
    <p> I am a 25-year-old developer with one year of experience.
 Focused on creating user-friendly and responsive applications, writing clean, efficient and easy-to-maintain code. I always strive to learn current trends and best practices.</p>
-</div>
 
 ### 🤝 Soft skills:
 
