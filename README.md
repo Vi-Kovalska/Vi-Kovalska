@@ -20,4 +20,6 @@ Focused on creating user-friendly and responsive applications, writing clean, ef
 <img  src='./images/java-script-logo.png' width="80" height="80" alt="Java Script logo" />
 <img  src='./images/react-logo.png' width="80" height="80" alt="React logo" />
 <img  src='./images/redux-logo.png' width="80" height="80" alt="Redux logo" />
+<img  src='./images/type-script-logo.png' width="80" height="80" alt="Type Script logo" />
+<img  src='./images/node-js-logo.png' width="80" height="80" alt="Node.js logo" />
 </div>
